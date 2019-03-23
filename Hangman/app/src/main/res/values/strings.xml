@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">Wisielec</string>
+    <string name="word">word</string>
+    <string name="reset">Reset</string>
+    <string name="akceptuj">Akceptuj</string>
+    <string name="todo">TODO</string>
+    <string name="nowa_gra">Nowa gra</string>
+    <string-array name="words">
+        <item>komputer</item>
+        <item>zagadka</item>
+        <item>wisielec</item>
+        <item>android</item>
+        <item>miłość</item>
+        <item>życie</item>
+        <item>przyjaźń</item>
+        <item>szkoła</item>
+        <item>telefon</item>
+        <item>laptop</item>
+        <item>muzyka</item>
+        <item>słuchawki</item>
+        <item>śmierć</item>
+        <item>pistolet</item>
+        <item>krawat</item>
+        <item>koło</item>
+        <item>świeca</item>
+        <item>wąż</item>
+        <item>koala</item>
+        <item>słownik</item>
+        <item>paznokieć</item>
+        <item>włosy</item>
+        <item>obroża</item>
+        <item>jutro</item>
+        <item>klapa</item>
+        <item>lody</item>
+        <item>sobota</item>
+        <item>guziki</item>
+        <item>piłeczka</item>
+        <item>zmywacz</item>
+        <item>samochód</item>
+        <item>dziwak</item>
+        <item>czekolada</item>
+        <item>orkiestra</item>
+        <item>pizza</item>
+        <item>sieć</item>
+        <item>bohaterka</item>
+        <item>okno</item>
+        <item>nagroda</item>
+        <item>forum</item>
+        <item>uniwersytet</item>
+        <item>liść</item>
+        <item>zbiór</item>
+        <item>pasek</item>
+        <item>kierownica</item>
+        <item>spacer</item>
+        <item>wnuczek</item>
+        <item>upośledzenie</item>
+        <item>czarownik</item>
+        <item>monstrum</item>
+        <item>połowa</item>
+        <item>moda</item>
+        <item>prowiant</item>
+        <item>medytować</item>
+        <item>samolot</item>
+        <item>historia</item>
+        <item>błąd</item>
+        <item>wiersz</item>
+        <item>sukces</item>
+        <item>bezpieczeństwo</item>
+        <item>przodek</item>
+        <item>pień</item>
+        <item>wakacje</item>
+        <item>młodzież</item>
+        <item>słoń</item>
+        <item>świętować</item>
+        <item>nieszczęście</item>
+        <item>reżim</item>
+        <item>demonstracja</item>
+        <item>żaba</item>
+        <item>walka</item>
+        <item>truskawka</item>
+        <item>tabletka</item>
+        <item>ulica</item>
+        <item>album</item>
+        <item>tendencja</item>
+        <item>minimum</item>
+        <item>dowcip</item>
+        <item>łza</item>
+        <item>prostokąt</item>
+        <item>most</item>
+        <item>meczet</item>
+        <item>gazeta</item>
+        <item>boks</item>
+        <item>znamię</item>
+        <item>lekcja</item>
+        <item>patelnia</item>
+        <item>pamiętnik</item>
+        <item>komplement</item>
+        <item>muszla</item>
+        <item>wodospad</item>
+        <item>wejście</item>
+        <item>krzyk</item>
+        <item>krytyk</item>
+        <item>bawełna</item>
+        <item>krawiec</item>
+        <item>diagram</item>
+        <item>równowaga</item>
+        <item>laser</item>
+        <item>pudel </item>
+        <item>futbol</item>
+    </string-array>
+</resources>
