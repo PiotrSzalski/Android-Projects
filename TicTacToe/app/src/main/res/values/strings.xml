@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="player_move">Ruch \ngracza: O</string>
+    <string name="new_game_port">Nowa gra</string>
+    <string name="player_vs_player">Gracz vs Gracz</string>
+    <string name="player_vs_bot">Gracz vs Bot</string>
+    <string name="new_game_land">Nowa \ngra</string>
+</resources>
