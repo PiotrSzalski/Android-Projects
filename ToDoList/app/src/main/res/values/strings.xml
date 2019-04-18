@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ToDo List</string>
+    <string name="add">Dodaj</string>
+    <string name="new_task">Nazwa zadania</string>
+    <string name="edit_task">Edytuj zadanie</string>
+    <string name="add_task">Dodaj zadanie</string>
+    <string name="task_name">Nazwa zadania</string>
+    <string name="hour">Godzina</string>
+    <string name="data">Data</string>
+    <string name="priotytet">Priotytet</string>
+    <string name="obrazek">Obrazek</string>
+</resources>

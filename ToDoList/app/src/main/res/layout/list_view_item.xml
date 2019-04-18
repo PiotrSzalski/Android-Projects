@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" android:background="@color/background">
+    <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" app:srcCompat="@android:color/holo_green_light"
+            android:id="@+id/priorityColor"
+            android:layout_weight="3.5"/>
+    <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" app:srcCompat="@drawable/home"
+            android:id="@+id/im" android:layout_weight="3"/>
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_weight="1">
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:id="@+id/t1" android:layout_weight="1"
+                android:textSize="22sp" android:gravity="center" android:textColor="@android:color/background_dark"/>
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:id="@+id/t2" android:layout_weight="1"
+                android:textSize="14sp" android:gravity="center" android:textColor="@android:color/background_dark"/>
+    </LinearLayout>
+    <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" app:srcCompat="@android:color/holo_green_light"
+            android:id="@+id/priorityColor2"
+            android:layout_weight="3.5"/>
+</LinearLayout>
