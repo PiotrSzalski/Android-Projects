@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Galeria z aparatem</string>
+    <string name="add_photo">Dodaj zdjęcie z aparatu</string>
+    <string-array name="descript">
+        <item>Zdjęcie przedstawia krajobraz</item>
+        <item>Zdjęcie przedstawia krajobraz</item>
+        <item>Zdjęcie przedstawia krajobraz</item>
+        <item>Zdjęcie przedstawia krajobraz</item>
+        <item>Zdjęcie przedstawia krajobraz</item>
+        <item>Zdjęcie przedstawia krajobraz</item>
+        <item>Zdjęcie przedstawia krajobraz</item>
+        <item>Zdjęcie przedstawia krajobraz</item>
+        <item>Zdjęcie przedstawia krajobraz</item>
+        <item>Zdjęcie przedstawia krajobraz</item>
+        <item>Zdjęcie przedstawia krajobraz</item>
+        <item>Zdjęcie przedstawia krajobraz</item>
+        <item>Zdjęcie przedstawia krajobraz</item>
+        <item>Zdjęcie przedstawia krajobraz</item>
+        <item>Zdjęcie przedstawia krajobraz</item>
+    </string-array>
+</resources>
