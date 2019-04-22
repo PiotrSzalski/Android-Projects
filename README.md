@@ -14,6 +14,6 @@ ToDoList is an application that allows you to create a list of tasks to be done.
 ![ToDo2](https://user-images.githubusercontent.com/48840104/56354002-07e5b880-61d3-11e9-830c-cbf5a6761ed6.png)
 </br>
 ### **Gallery**</br>
-Gallery is an application that allows you to view, evaluate and take photos. It uses fragments for more convenient use of the interface. Application allows you to take pictures for and add them to the gallery.
+Gallery is an application that allows you to view, evaluate and take photos. It uses fragments for more convenient use of the interface. Application allows you to take pictures and add them to the gallery.
 ![Gallery1](https://user-images.githubusercontent.com/48840104/56354868-264cb380-61d5-11e9-9ce1-60189f7fae4c.png)
 ![Gallery2](https://user-images.githubusercontent.com/48840104/56354869-26e54a00-61d5-11e9-8106-4cd1785c4bf0.png)
