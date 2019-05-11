@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pong</string>
+    <string name="serve">serve</string>
+    <string name="points">0:0</string>
+    <string name="new_game">New game</string>
+    <string name="pause">Pause</string>
+</resources>
