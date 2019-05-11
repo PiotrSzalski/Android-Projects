@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NewtonAPI</string>
+    <string name="expression">Expression</string>
+    <string name="simplyify">Simplyify</string>
+    <string name="factor">Factor</string>
+    <string name="derive">Derive</string>
+    <string name="integrate">Integrate</string>
+    <string name="find_0_s">Find 0\'s</string>
+    <string name="find_tangent">Find Tangent</string>
+    <string name="logharitm">Logharitm</string>
+    <string name="cosine">Cosine</string>
+    <string name="sine">Sine</string>
+    <string name="tangent">Tangent</string>
+    <string name="arccosine">arccosine</string>
+    <string name="arcsine">arcsine</string>
+    <string name="inverse_tangent">Inverse Tangent</string>
+    <string name="area_under_curve">Area Under Curve</string>
+    <string name="absolute_value">Absolute Value</string>
+</resources>
