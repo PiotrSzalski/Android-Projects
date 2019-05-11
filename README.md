@@ -21,3 +21,7 @@ Gallery is an application that allows you to view, evaluate and take photos. It 
 ### **Pong**</br>
 Pong is an application that allows two player play in Pong. It uses multi-touch and sharedpreferences to save state of the game.</br>
 ![pong](https://user-images.githubusercontent.com/48840104/57568765-20b94680-73ec-11e9-9fe6-f5467d84fd8e.png)
+</br>
+### **NewtonAPI**</br>
+NewtonAPI is an application that allows users to write an expression, select mathematical operation and get the result. It uses [NewtonAPI](https://github.com/aunyks/newton-api) and Retrofit library.</br>
+![NewtonAPI](https://user-images.githubusercontent.com/48840104/57568897-d1741580-73ed-11e9-831e-45b73c7daf50.png)
