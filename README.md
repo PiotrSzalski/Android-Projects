@@ -18,6 +18,6 @@ Gallery is an application that allows you to view, evaluate and take photos. It 
 ![Gallery1](https://user-images.githubusercontent.com/48840104/56354868-264cb380-61d5-11e9-9ce1-60189f7fae4c.png)
 ![Gallery2](https://user-images.githubusercontent.com/48840104/56354869-26e54a00-61d5-11e9-8106-4cd1785c4bf0.png)
 </br>
-### **Gallery**</br>
+### **Pong**</br>
 Pong is an application that allows two player play in Pong. It uses multi-touch and sharedpreferences to save state of the game.</br>
 ![pong](https://user-images.githubusercontent.com/48840104/57568765-20b94680-73ec-11e9-9fe6-f5467d84fd8e.png)
